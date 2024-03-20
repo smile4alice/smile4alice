@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Viktor+Bazar;Python+Backend+Developer;FastAPI+%7C+Flask+%7C+Aiogram" alt="Typing SVG" /></a>
 
@@ -26,11 +25,11 @@
 
 *6 months of commercial experience in web development*
 
-* 🎓 Researching the best practices of creating APIs, BOTs, integrations and automation
+* 🎓 Conducting research on best practices for creating APIs, bots, integrations and automation.
 
-* 💡 Open to new challenges and always seek for opportunities to contribute to the development of impactful products.
+* 💡 I am open to new challenges and actively seek opportunities to contribute to the development of impactful products.
 
-* 💻 Currently, I am participating in volunteer projects with 'Baza Trainee Ukraine' an organization dedicated to developing software for the public sector, charitable foundations, government enterprises
+* 💻 Currently, I am engaged in volunteer projects with 'Baza Trainee Ukraine,' where I develop APIs for social sector and charitable foundations websites.
 
 <details>
 <summary>📈 Stats</summary>
@@ -39,13 +38,8 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smile4alice&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smile4alice&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smile4alice&theme=dracula)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smile4alice&theme=dracula)
-
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8lfcqchczhlqaebspjylmepyl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
