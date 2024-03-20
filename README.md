@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Viktor+Bazar;Python+Backend+Developer;FastAPI+%7C+Flask+%7C+Aiogram" alt="Typing SVG" /></a>
 
 <br/>
-<a href="https://smile4alice.com/about">
+<a href="https://drive.google.com/file/d/1Gq9hD8Ad_lzpkws0KYQyv10NfV87uGM6/view?usp=drive_link">
     <img src="https://img.shields.io/badge/about-CV-red?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/smile4alice/">
@@ -26,16 +26,11 @@
 
 *6 months of commercial experience in web development*
 
-* 🧠 Helping companies perform data-driven decisions.
-
-* 🎓 Researching the best practices of creating APIs, BOTs, and automation
+* 🎓 Researching the best practices of creating APIs, BOTs, integrations and automation
 
 * 💡 Open to new challenges and always seek for opportunities to contribute to the development of impactful products.
 
 * 💻 Currently, I am participating in volunteer projects with 'Baza Trainee Ukraine' an organization dedicated to developing software for the public sector, charitable foundations, government enterprises
-
-📫 Drop me an email at: smile.to.alice@gmail.com
-
 
 <details>
 <summary>📈 Stats</summary>
